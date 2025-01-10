@@ -1,0 +1,31 @@
+:export {
+  //-- Text
+  clrTxtPrimary: var(--clr-txt-primary);
+  clrTxtSecondary: var(--clr-txt-secondary);
+  clrTxtTertiary: var(--clr-txt-tertiary);
+  clrTxtBrandSecondary: var(--clr-txt-brand-secondary);
+  clrTxtPlaceholder: var(--clr-txt-placeholder);
+
+  //-- Button
+  clrBtnBgPrimary: var(--clr-btn-bg-primary);
+  clrBtnErrorBgPrimary: var(--clr-btn-error-bg-primary);
+
+  clrBtnBorderPrimary: var(--clr-btn-border-primary);
+  clrBtnBorderSecondary: var(--clr-btn-border-secondary);
+
+  clrBtnErrorBorderPrimary: var(--clr-btn-error-border-primary);
+
+  clrBtnFgPrimary: var(--clr-btn-fg-primary);
+  clrBtnFgSecondary: var(--clr-btn-fg-secondary);
+  clrBtnFgTertiary: var(--clr-btn-fg-tertiary);
+
+  //-- Font Family
+  fontPrimary: var(--font-primary);
+  fontSecondary: var(--font-secondary);
+
+  //-- Height
+  buttonHeightMd: var(--button-height-md);
+
+  //-- Radius
+  radiusMd: var(--radius-md);
+}

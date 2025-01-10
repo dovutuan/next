@@ -1,0 +1,32 @@
+{
+  "number_of_subjects": "対象件数:<span>{{value}}</span>件",
+  "button": {
+    "create_new": "新規作成",
+    "register": "登録",
+    "save": "保存",
+    "reset_password": "変更",
+    "clear": "クリア",
+    "search": "絞り込む",
+    "delete": "削除",
+    "cancel": "キャンセル",
+    "send": "送信",
+    "back": "戻る"
+  },
+  "popup_menu": {
+    "diagnosis_list": "診断一覧",
+    "login": "ログイン",
+    "edit": "編集",
+    "delete": "削除",
+    "logout": "ログアウト"
+  },
+  "please_chose": "選択して下さい",
+  "snackbar": {
+    "create_success": "登録しました。",
+    "save_success": "保存しました。",
+    "send_success": "送信しました。",
+    "delete_success": "削除しました。"
+  },
+  "select": {
+    "search_all": "すべて"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "delete": {
+    "title": "確認",
+    "confirm_text": "この企業を本当に削除しますか？"
+  },
+  "send_mail_instruction": {
+    "title": "確認",
+    "confirm_text": "<span>{{email}}</span>にユーザー登録案内を送りますか？"
+  }
+}

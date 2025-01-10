@@ -1,0 +1,16 @@
+{
+  "examination_data_page_breadcrum": "ユーザー一覧",
+  "table_header": {
+    "user_id": "ID",
+    "exam_taker": "名前",
+    "company_name": "企業名",
+    "register_date": "登録日時"
+  },
+  "filter": {
+    "search_label": "フリーワード",
+    "id_label": "ID",
+    "btn_clear": "クリア",
+    "btn_search": "絞り込む",
+    "select_label": "企業名"
+  }
+}

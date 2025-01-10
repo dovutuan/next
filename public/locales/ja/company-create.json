@@ -1,0 +1,17 @@
+{
+  "title": "新規作成",
+  "company_info": "企業情報",
+  "supervisor_information": "特権管理者情報",
+  "form_label": {
+    "company_name": "社名",
+    "industry": "業種",
+    "full_name": "氏名",
+    "last_name": "姓",
+    "first_name": "名",
+    "last_name_kana": "セイ",
+    "first_name_kana": "メイ",
+    "mail": "メールアドレス",
+    "administrator": "管理者",
+    "industry_detail": "業種詳細"
+  }
+}

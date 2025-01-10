@@ -1,0 +1,19 @@
+{
+  "user_detail_breadcrum": "ユーザー一覧",
+  "user_information": {
+    "name": "氏名",
+    "email": "メールアドレス",
+    "sub_emai": "サブメールアドレス"
+  },
+  "user_working_history": {
+    "working_status": "在職状況",
+    "working_period": "在職期間",
+    "exam_name": "診断名",
+    "exam_finish_time": "受検日時",
+    "result": "結果",
+    "diagnostic_result": "メインシート",
+    "section_title": "所属情報",
+    "action": "詳細レポート",
+    "empty_exam_results": "受検結果がありません"
+  }
+}

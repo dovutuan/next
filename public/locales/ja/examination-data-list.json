@@ -1,0 +1,18 @@
+{
+  "examination_data_page_breadcrum": "受検データ一覧",
+  "table_header": {
+    "user_id": "ID",
+    "exam_taker": "名前",
+    "company_name": "企業名",
+    "exam_name": "診断名",
+    "exam_date_time": "受検日時",
+    "exam_result": "結果",
+    "action": "詳細レポート",
+    "sub_action": "サマリーシート"
+  },
+  "filter": {
+    "search_label": "フリーワード",
+    "id_label": "ID",
+    "select_label": "企業名"
+  }
+}

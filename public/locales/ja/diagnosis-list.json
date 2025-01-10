@@ -1,0 +1,9 @@
+{
+  "table_header": {
+    "id": "ID",
+    "diagnosis_name": "診断名",
+    "examinee_count": "受検数",
+    "examinationPeriod": "受検期間",
+    "register_date": "登録日時"
+  }
+}

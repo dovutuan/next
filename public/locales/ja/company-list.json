@@ -1,0 +1,11 @@
+{
+  "title": "企業一覧",
+  "table_header": {
+    "company_id": "企業ID",
+    "company_name": "企業名",
+    "diagnoses_count": "診断数",
+    "last_diagnosed_at": "最終受検日時",
+    "created_at": "登録日時"
+  },
+  "send_user_registration_guide": "ユーザー登録案内送信"
+}

@@ -1,0 +1,17 @@
+export enum ModalNames {
+  RESET_PASSWORD = 'reset-password-modal',
+  DELETE_COMPANY = 'delete-company-modal',
+  SEND_EMAIL_INSTRUCTION = 'send-email-instruction-modal',
+  REPORT_THINKING_TYPE_GUIDE = 'report-thinking-type-guide',
+  CHART_3_GUIDE = 'chart-3-guide',
+  REPORT_THINKING_STYLE_GUIDE = 'report-thinking-style-guide',
+  REPORT_WORK_MOTIVATION_GUIDE = 'report-work-motivation-guide',
+  CHART_4_GUIDE = 'chart-4-guide',
+  CHART_5_GUIDE = 'chart-5-guide',
+  CHART_6_GUIDE = 'chart-6-guide',
+  CHART_7_GUIDE = 'chart-7-guide',
+  CHART_9_GUIDE = 'chart-9-guide',
+  CHART_10_GUIDE = 'chart-10-guide',
+  CHART_11_GUIDE = 'chart-11-guide',
+  CHART_13_GUIDE = 'chart-13-guide',
+}
